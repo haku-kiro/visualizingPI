@@ -1,0 +1,6 @@
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\visualizingPI\visualizingPI\bin\Debug\visualizingPI.exe.config
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\visualizingPI\visualizingPI\bin\Debug\visualizingPI.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\visualizingPI\visualizingPI\bin\Debug\visualizingPI.pdb
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\visualizingPI\visualizingPI\obj\Debug\visualizingPI.csprojResolveAssemblyReference.cache
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\visualizingPI\visualizingPI\obj\Debug\visualizingPI.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\Projects\visualizingPI\visualizingPI\obj\Debug\visualizingPI.pdb
